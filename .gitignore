@@ -1,0 +1,22 @@
+# generated inputs / outputs
+in/
+out/
+
+# evaluation results
+*.csv
+*.log
+*.xlsx
+
+# local tools
+tools/
+
+# Rust
+target/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
